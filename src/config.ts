@@ -37,9 +37,9 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Quadrant Technologies",
+      title: "Software Engineer AI/ML",
+      dateRange: "May 2025 - Present",
       bullets: [
         "Led development of microservices architecture serving 1M+ users",
         "Reduced API response times by 40% through optimization",
@@ -47,9 +47,9 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "VR IT Resources",
+      title: "AI/Data Enfineer",
+      dateRange: "Feb 2024 - Apr 2025",
       bullets: [
         "Built and launched MVP product from scratch using React and Node.js",
         "Implemented CI/CD pipeline reducing deployment time by 60%",
@@ -57,15 +57,25 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
+      company: "Pharynx AI",
+      title: "Jr. Data Scientist - Natural Language Processing",
+      dateRange: "Jul 2021 - Dec 2021",
       bullets: [
         "Developed responsive web applications for 20+ clients",
         "Improved site performance scores by 35% on average",
         "Introduced modern JavaScript frameworks to legacy codebases",
       ],
     },
+    {
+      company: "iNeuron Intelligence",
+      title: "Machine Learning Intern",
+      dateRange: "May 2020 - Jun 2021",
+      bullets: [
+        "Developed responsive web applications for 20+ clients",
+        "Improved site performance scores by 35% on average",
+        "Introduced modern JavaScript frameworks to legacy codebases",
+      ],
+    }
   ],
   education: [
     {
