@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Prithvi krishna Alluri",
-  title: "Senior Software Engineer",
+  title: "AI/ML Engineer",
   description: "Portfolio website of Ryan Fitzgerald",
   accentColor: "#1d4ed8",
   social: {
