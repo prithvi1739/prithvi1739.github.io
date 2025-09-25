@@ -1,16 +1,16 @@
 export const siteConfig = {
   name: "Prithvi krishna Alluri",
   title: "AI/ML Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  description: "Portfolio website of Prithvi Krishna",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
+    email: "aprithvikrishna@gmail.com",
+    linkedin: "www.linkedin.com/in/prithvi-alluri5969",
     twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    github: "https://github.com/prithvi1739",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+    "AI/ML Engineer passionate about building intelligent systems. Exploring deep learning, transformers, and real-world applications of AI across NLP, multi-agent systems, and applied machine learning.",
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
@@ -69,9 +69,9 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "George Mason University",
+      degree: "Master of Science in Data Analytics and engineering",
+      dateRange: "2022-2024",
       achievements: [
         "Graduated Magna Cum Laude with 3.8 GPA",
         "Dean's List all semesters",
@@ -79,13 +79,12 @@ export const siteConfig = {
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      school: "Amrita Vishwa Vidyapeetham, Amrita School of engineering",
+      degree: "Bachelor's degree in Electronics and Communication Engineering",
+      dateRange: "2016 -2020",
       achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "Completed final semester with Outstanding Grade",
+        "Published a technical paper in Research Journal on final semester Project",
       ],
     },
   ],
