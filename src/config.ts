@@ -88,12 +88,13 @@ export const siteConfig = {
       ],
     },
     {
-      school: "Amrita Vishwa Vidyapeetham, Amrita School of Engineering",
-      degree: "Bachelor's degree in Electronics and Communication Engineering",
+      school: "Amrita Vishwa Vidyapeetham, Amrita School of Engineering Bengaluru.",
+      degree: "Bachelor of Technology in Electronics and Communications Engineering.",
       dateRange: "2016 -2020",
       achievements: [
         "Completed final semester Project with Outstanding Grade.",
         "Published a technical paper on a Research Journal in the final semester Project.",
+        "Executive member in Science Club(Aavishkaara), Patriotic Club(The Squad), Environment Club(Prakruthi), Toast masters Bengaluru Amrita and been active organizer of Cultural fests for 3 years.",
       ],
     },
   ],
