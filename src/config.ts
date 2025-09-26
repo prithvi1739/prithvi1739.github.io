@@ -83,9 +83,8 @@ export const siteConfig = {
       degree: "Master of Science in Data Analytics and engineering",
       dateRange: "2022-2024",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "Graduated from George MasonUniversity with 3.8 GPA",
+        "Major in Data Analytics Engineering and Minor in Machine Learning/Natural language processing",
       ],
     },
     {
@@ -94,7 +93,7 @@ export const siteConfig = {
       dateRange: "2016 -2020",
       achievements: [
         "Completed final semester with Outstanding Grade",
-        "Published a technical paper in Research Journal on final semester Project",
+        "Published a technical paper on Research Journal in final semester Project",
       ],
     },
   ],
