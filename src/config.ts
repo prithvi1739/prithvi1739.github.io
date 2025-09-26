@@ -11,7 +11,7 @@ export const siteConfig = {
   },
   aboutMe:
     "AI/ML Engineer passionate about building intelligent systems. Exploring deep learning, transformers, and real-world applications of AI across NLP, multi-agent systems, and applied machine learning.",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+  skills: ["Python", "Data Structures and Algorithms", "SQL", "R", "Scala", "Flask", "Docker", "Django", "PostgreSQL", "MongoDB", "TensorFlow", "PyTorch", "Keras", "Scikit-learn", "OpenCV", "NLTK", "Transformers (Hugging Face)", "LLaMA", "vLLM",  "GANs", "CNN", "RNN", "LSTM", "BERT", "GPT",  "CUDA (basic)", "batch optimization", "ML inference tuning", "LangGraph", "Autogen", "CrewAI", "GPT", "LangChain", "FAISS", "LlamaIndex", "Azure AI Search", "Pinecone", "Streamlit", "Prompt Engineering", "Human-in-the-loop Evaluation"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
