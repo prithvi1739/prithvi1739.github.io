@@ -41,9 +41,9 @@ export const siteConfig = {
       title: "Software Engineer AI/ML",
       dateRange: "May 2025 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Deployed autonomous AI agents (LangGraph, Autogen, CrewAI) with GPT-4/Claude/LLaMA, boosting decision-making reliability by 30% in production workflows.",
+        "Built RAG pipelines (FAISS, Pinecone, Azure AI Search) with ETL + FastAPI, cutting retrieval latency by 40% in multi-agent environments.",
+        "Scaled cloud deployments via Docker + Kubernetes (EKS/GKE), achieving 99.9% uptime and automated monitoring with CI/CD pipelines.",
       ],
     },
     {
@@ -51,9 +51,9 @@ export const siteConfig = {
       title: "AI/Data Enfineer",
       dateRange: "Feb 2024 - Apr 2025",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+        "Engineered multi-agent systems with human-in-the-loop evaluation, improving safe planning accuracy by 25% across workflows.",
+        "Designed terabyte-scale data pipelines with GCP DataProc, BigQuery, and Airflow, reducing ETL job runtime by 45%.",
+        "Automated ML lifecycle using MLflow + SageMaker, cutting model deployment cycle from weeks to <3 days.",
       ],
     },
     {
@@ -61,9 +61,9 @@ export const siteConfig = {
       title: "Jr. Data Scientist - Natural Language Processing",
       dateRange: "Jul 2021 - Dec 2021",
       bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Processed and annotated 100k+ retail call logs, creating high-quality labeled datasets for intent recognition.",
+        "Built ASR + NLU pipeline (AWS Transcribe, BERT, SageMaker) that improved intent classification accuracy by 22%.",
+        "Deployed voice bot with AWS Lambda + Polly, reducing call handling time by 15% in pilot deployment.",
       ],
     },
     {
@@ -71,9 +71,9 @@ export const siteConfig = {
       title: "Machine Learning Intern",
       dateRange: "May 2020 - Jun 2021",
       bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Developed sales forecasting models (Scikit-learn, XGBoost) that improved revenue prediction accuracy by 18%.",
+        "Built COVID-19 risk stratification models (TensorFlow, PyTorch), achieving 85% accuracy for patient classification.",
+        "Optimized backend rendering systems (Java + Python REST APIs), improving app response time by 25%.",
       ],
     }
   ],
