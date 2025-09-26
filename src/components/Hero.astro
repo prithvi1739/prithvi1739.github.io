@@ -156,9 +156,11 @@ import { siteConfig } from "../config";
     {
       siteConfig.social?.email && (
         <a
-          href={`mailto:${siteConfig.social.email}`}
+          href={`https://mail.google.com/mail/?view=cm&fs=1&to=${encodeURIComponent(siteConfig.social.email)}`}
           aria-label="Email"
           class="transition-colors duration-300 hover:text-[var(--accent-color)]"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
