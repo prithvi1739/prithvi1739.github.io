@@ -4,7 +4,7 @@ export const siteConfig = {
   description: "Portfolio website of Prithvi Krishna",
   accentColor: "#1d4ed8",
   social: {
-    email: "https://mail.google.com/mail/?view=cm&fs=1&to=${encodeURIComponent(siteConfig.social.email)}",
+    email: "https://mail.google.com/aprithvikrishna@gmail.com",
     linkedin: "https://www.linkedin.com/in/prithvi-alluri5969",
     github: "https://github.com/prithvi1739",
   },
