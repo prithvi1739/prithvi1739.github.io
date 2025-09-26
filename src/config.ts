@@ -80,20 +80,20 @@ export const siteConfig = {
   education: [
     {
       school: "George Mason University",
-      degree: "Master of Science in Data Analytics and engineering",
+      degree: "Master of Science (MS) in Data Analytics and Engineering",
       dateRange: "2022-2024",
       achievements: [
-        "Graduated from George MasonUniversity with 3.8 GPA",
-        "Major in Data Analytics Engineering and Minor in Machine Learning/Natural language processing",
+        "Graduated from George Mason University with 3.8 GPA.",
+        "Major in Data Analytics Engineering and Minor in Machine Learning/Natural Language Processing.",
       ],
     },
     {
-      school: "Amrita Vishwa Vidyapeetham, Amrita School of engineering",
+      school: "Amrita Vishwa Vidyapeetham, Amrita School of Engineering",
       degree: "Bachelor's degree in Electronics and Communication Engineering",
       dateRange: "2016 -2020",
       achievements: [
-        "Completed final semester with Outstanding Grade",
-        "Published a technical paper on Research Journal in final semester Project",
+        "Completed final semester Project with Outstanding Grade.",
+        "Published a technical paper on a Research Journal in the final semester Project.",
       ],
     },
   ],
