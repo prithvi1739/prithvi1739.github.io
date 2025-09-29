@@ -13,11 +13,11 @@ export const siteConfig = {
   skills: ["Python", "Data Structures and Algorithms", "SQL", "R", "Scala", "Flask", "Docker", "Django", "PostgreSQL", "MongoDB", "TensorFlow", "PyTorch", "Keras", "Scikit-learn", "OpenCV", "NLTK", "Transformers (Hugging Face)", "LLaMA", "vLLM",  "GANs", "CNN", "RNN", "LSTM", "BERT", "GPT",  "CUDA (basic)", "batch optimization", "ML inference tuning", "LangGraph", "Autogen", "CrewAI", "GPT", "LangChain", "FAISS", "LlamaIndex", "Azure AI Search", "Pinecone", "Streamlit", "Prompt Engineering", "Human-in-the-loop Evaluation"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Research Paper Implementation - Attention is all you need(Transformers)",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Built a from-scratch PyTorch Transformer based on “Attention Is All You Need,” replacing sequential recurrence with fully parallel self-attention. The model includes multi-head attention, sinusoidal positional encodings, residual + LayerNorm blocks, and an encoder–decoder with causal masking. Training uses label smoothing and a warmup LR schedule, with clean configs for heads/depth/d_model. This is the first in an ongoing series where I implement and benchmark core ML and GenAI papers, focusing on readable code and reproducible results.",
+      link: "https://github.com/prithvi1739/Attention_is_all_you_need-Implementation-of-Research-Paper-",
+      skills: ["Python 3", "PyTorch", "NumPy", "Transformers", "Self-Attention", "Multi-Head Attention", "Positional Encodings", "LayerNorm", "Residual Connections", "Sequence Modeling", "Autoregressive Decoding", "Beam/Greedy Search", "Tokenization (BPE/WordPiece)", "Label Smoothing", "LR Warmup", "Gradient Clipping", "Mixed Precision (AMP)", "CUDA", "PyTorch DDP", "TensorBoard/W&B", "YAML Configs", "Unit Testing", "Reproducibility", "CLI Design", "Git", "Docker", "MLOps", "ONNX/TorchScript", "NLP", "Deep Learning", "Machine Learning", "Generative AI", "LLMs"],
     },
     {
       name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
