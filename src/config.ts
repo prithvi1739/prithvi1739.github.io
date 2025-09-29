@@ -27,11 +27,11 @@ export const siteConfig = {
       skills: ["React", "Node.js", "AWS"],
     },
     {
-      name: "ExtensionKit",
+      name: "AI-Optimized Polymer Simulation: MOBO for Coarse-Grained Models",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "AI meets materials science: a demo showing how optimization can make polymer simulations faster and more accurate, inspired by enterprise R&D workflows.",
+      link: "https://github.com/prithvi1739/AI-Optimized-Polymer-Simulation-MOBO-for-Coarse-Grained-Models",
+      skills: ["Python", "NumPy", "PyTorch", "Optuna", "Scikit-learn", "Bayesian Optimization", "Data Visualization", "Scientific Computing"],
     },
   ],
   experience: [
