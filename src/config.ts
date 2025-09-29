@@ -20,11 +20,11 @@ export const siteConfig = {
       skills: ["Python 3", "PyTorch", "NumPy", "Transformers", "Self-Attention", "Multi-Head Attention", "Positional Encodings", "LayerNorm", "Residual Connections", "Sequence Modeling", "Autoregressive Decoding", "Beam/Greedy Search", "Tokenization (BPE/WordPiece)", "Label Smoothing", "LR Warmup", "Gradient Clipping", "Mixed Precision (AMP)", "CUDA", "PyTorch DDP", "TensorBoard/W&B", "YAML Configs", "Unit Testing", "Reproducibility", "CLI Design", "Git", "Docker", "MLOps", "ONNX/TorchScript", "NLP", "Deep Learning", "Machine Learning", "Generative AI", "LLMs"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "StoryWeaver AI: Personalized Narrative Generator",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "AI Story Weaver is a generative AI application designed to create engaging stories for children. By using a character and a genre (e.g., adventure, fantasy), the application generates unique narratives.",
+      link: "https://github.com/Raju1998060745/stories123",
+      skills: ["Python", "Backend Development (Python APIs)", "Generative AI", "Mistral (fine-tuning & inference)", "Retrieval-Augmented Generation (RAG)", "Vector Databases", "Embeddings", "Prompt Engineering", "Frontend Web Development", "API Design & Integration", "Model Serving", "Text-to-Speech (TTS)", "Audio Processing", "Interactive UI/State Management", "Version Control (Git)"],
     },
     {
       name: "AI-Optimized Polymer Simulation: MOBO for Coarse-Grained Models",
