@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Prithvi krishna Alluri",
+  name: "Prithvi Alluri",
   title: "AI/ML Engineer",
   description: "Portfolio website of Prithvi Krishna",
   accentColor: "#1d4ed8",
