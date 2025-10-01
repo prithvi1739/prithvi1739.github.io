@@ -31,7 +31,7 @@ export const siteConfig = {
       description:
         "AI meets materials science: a demo showing how optimization can make polymer simulations faster and more accurate, inspired by enterprise R&D workflows.",
       link: "https://github.com/prithvi1739/AI-Optimized-Polymer-Simulation-MOBO-for-Coarse-Grained-Models",
-      skills: ["Python", "NumPy", "PyTorch", "Optuna", "Scikit-learn", "Bayesian Optimization", "Data Visualization", "Scientific Computing"],
+      skills: ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Jupyter Notebook", "Git & GitHub", "Conda/venv", "PowerShell/CLI (Windows)", "Multi-objective optimization (NSGA-II)", "Optuna", "Bayesian Optimization (BoTorch/Ax, optional)", "PyTorch (CPU)", "scikit-learn", "Basic statistics & error metrics", "Data visualization", "Molecular modeling basics (AAMD vs CGMD)"],
     },
   ],
   experience: [
